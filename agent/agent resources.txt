@@ -1,0 +1,8 @@
+https://github.com/khoadaniel/custom-llm-agent-demo
+
+https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI/tree/main
+
+slides
+https://lekha-bhan88.medium.com/introduction-to-agentic-ai-and-its-design-patterns-af8b7b3ef738
+https://www.linkedin.com/pulse/exploring-world-agentic-ai-single-vs-multi-agent-systems-chauhan-gnmic/
+https://medium.com/@sulbha.jindal/ai-agents-single-agents-to-multi-agents-and-future-0587d38c1d01
